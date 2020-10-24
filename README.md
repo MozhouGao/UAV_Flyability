@@ -22,6 +22,9 @@ This folder contains two scripts to help you understand how to calculate drone f
 <br> <b> Download ERA5.ipynb </b> shows an example of downloading ERA5 data by using cdsapi.
 <br> <b> Drone flyability calculation.ipynb </b> shows an examples of calculating monthly drone flyability (both day and night and daylight only) for Alberta in June, 2019.  
  
+### Sample data
+<b> sampledata_06_2019.nc </b> was downloaded by using script <b> Download ERA5.ipynb </b>. Please also download this data if you wanted to run <b> Drone flyability calculation.ipynb </b> and to generate the exact results.
+ 
 ### Contact 
 <br> If you have any question please feel free to contact me! 
 <br> mozhou.gao@ucalgary.ca
