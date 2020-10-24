@@ -10,3 +10,8 @@
 
 ### Option libraries
 - <a href= "https://cds.climate.copernicus.eu/api-how-to"> cdsapi </a>: download ERA5 data
+
+### Scripts 
+This folder contains two scripts to help you understand how to calculate drone flyability. 
+<b> Download ERA5.ipynb shows an example of downloading ERA5 data by using cdsapi. 
+ 
