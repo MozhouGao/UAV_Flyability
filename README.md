@@ -13,5 +13,6 @@
 
 ### Scripts 
 This folder contains two scripts to help you understand how to calculate drone flyability. 
-<b> Download ERA5.ipynb shows an example of downloading ERA5 data by using cdsapi. 
+<br> <b> Download ERA5.ipynb </b> shows an example of downloading ERA5 data by using cdsapi.
+<br> <b> Drone flyability calculation.ipynb </b> shows an examples of calculating monthly drone flyability (both day and night and daylight only) for Alberta in June, 2019.  
  
