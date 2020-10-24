@@ -3,7 +3,7 @@
 ### Overview 
 This documnetiation is designed to be a technical document with relation to the example of calculating drone flyability by using grided weather data.
 
-#### Weather constraints on global drone flyability
+<b>Weather constraints on global drone flyability</b>
 Small aerial drones are used in a growing number of commercial applications. 3 However, drones cannot fly in all weather, which impacts their reliability for time-sensitive 4 operations. We explore the impact of weather on global drone flyability by comparing historical 5 wind speed, temperature, and precipitation data to manufacturer-reported thresholds of 6 common commercial and weather-resistant drones. We show that global flyability is highest in 7 warm and dry continental regions and lowest over oceans and at high latitudes. Median global 8 flyability for common drones is low: 5.7 hrs/day or 2.0 hrs/day if restricted to daylight hours. 9 Weather-resistant drones have higher flyability (20.4 and 12.3 hrs/day, respectively). These 10 estimates do not consider other weather conditions impacting safe drone operations. An 11 inverse analysis for major population centres shows the largest flyability gains for common 12 drones can be achieved by increasing maximum wind speed and precipitation thresholds from 13 10 to 15 m/s and 0 to 1 mm/hr, respectively.
 
 ### Required libraries 
@@ -26,7 +26,7 @@ This folder contains two scripts to help you understand how to calculate drone f
 <b> sampledata_06_2019.nc </b> was downloaded by using script <b> Download ERA5.ipynb </b>. Please also download this data if you wanted to run <b> Drone flyability calculation.ipynb </b> and to generate the exact results.
 
 ### Sample results 
-https://github.com/MozhouGao/UAV_Flyability/blob/main/Example_Figure.png?raw=true
+https://github.com/MozhouGao/UAV_Flyability/blob/main/Fig1.png?raw=true
  
 ### Contact 
 <br> If you have any question please feel free to contact me! 
