@@ -29,5 +29,5 @@ This folder contains two scripts to help you understand how to calculate drone f
 https://github.com/MozhouGao/UAV_Flyability/blob/main/Fig1.png?raw=true
  
 ### Contact 
-<br> If you have any question please feel free to contact me! 
+If you have any question please feel free to contact me! 
 <br> mozhou.gao@ucalgary.ca
