@@ -1,4 +1,5 @@
-The netCDF files listed in this folder are figures that included in the Gao et al., 2021
+The netCDF files listed in this folder are figures of Gao et al., 2021
+
 - DJI Phantom 4
   - DJI_Phantom4_dl.nc: The annual average flyability of DJI Phantom 4 (consider the daylight) 
   - DJI_Phantom4_nc.nc: The annual average flyability of DJI Phantom 4 (not consider the daylight)
