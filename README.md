@@ -14,7 +14,7 @@ This documnetiation is designed to be a technical document with relation to the 
 - <a href= "https://matplotlib.org/basemap/"> basemap </a>: plot 2D data on maps in python 
 
 
-### Option libraries
+### Optional libraries
 - <a href= "https://cds.climate.copernicus.eu/api-how-to"> cdsapi </a>: download ERA5 data
 
 ### Scripts 
