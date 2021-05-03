@@ -25,7 +25,7 @@ This folder contains two scripts to help you understand how to calculate drone f
 ### Sample data
 <b> sampledata_06_2019.nc </b> was downloaded by using script <b> Download ERA5.ipynb </b>. Please also download this data if you wanted to run <b> Drone flyability calculation.ipynb </b> and to generate the exact results.
 
-### Results in the Manuscript Gao et al., submitted can be found in MS_results folder
+### Results in the Gao et al., submitted can be found in MS_results folder
 
 ### Sample results 
 https://github.com/MozhouGao/UAV_Flyability/blob/main/Fig1.png?raw=true
