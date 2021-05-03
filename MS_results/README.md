@@ -6,3 +6,9 @@ The netCDF files listed in this folder are figures that included in the Gao et a
   - DJI_Phantom4_temp.nc: The impact intensity of the temperature
   - DJI_Phantom4_wind.nc: The impact intensity of the windspeed 
 
+- Zipline
+  - Zipline_dl.nc: The annual average flyability of Zipline (consider the daylight) 
+  - Zipline_nc.nc: The annual average flyability of Zipline (not consider the daylight)
+  - Zipline_precip.nc: The impact intensity of the precipitation 
+  - Zipline_temp.nc: The impact intensity of the temperature
+  - Zipline_wind.nc: The impact intensity of the windspeed 
